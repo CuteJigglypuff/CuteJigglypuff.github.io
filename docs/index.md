@@ -35,8 +35,20 @@ hide:
     <a class="prince-card reveal-card" href="course/">
       <div class="card-icon"><i class="fas fa-graduation-cap"></i></div>
       <div class="card-title">课程</div>
-      <div class="card-desc">小行星日志与笔记</div>
-      <span class="card-badge">2 篇</span>
+      <div class="card-desc">按学期整理的课程经验与心得体会</div>
+      <span class="card-badge">2 门</span>
+    </a>
+    <a class="prince-card reveal-card" href="explore/">
+      <div class="card-icon"><i class="fas fa-rocket"></i></div>
+      <div class="card-title">探索</div>
+      <div class="card-desc">学习之外努力开发的星际航道</div>
+      <span class="card-badge">课外</span>
+    </a>
+    <a class="prince-card reveal-card" href="law/">
+      <div class="card-icon"><i class="fas fa-scale-balanced"></i></div>
+      <div class="card-title">法学</div>
+      <div class="card-desc">记录一位法学生的扎根与求索</div>
+      <span class="card-badge">专业</span>
     </a>
     <a class="prince-card reveal-card" href="calendar/">
       <div class="card-icon"><i class="fas fa-calendar-check"></i></div>
@@ -59,12 +71,12 @@ hide:
     <label class="cl-header" for="cl1"><i class="fas fa-history"></i> 更新日志</label>
     <div class="cl-body">
       <div class="cl-item">
-        <div class="cl-date">2026-07-29</div>
-        <div class="cl-desc">新增更新日志功能，点击即可查看历史改动</div>
+        <div class="cl-date">2026-07-30</div>
+        <div class="cl-desc">新增「探索」和「法学」板块，首页改为 2×3 六宫格布局</div>
       </div>
       <div class="cl-item">
-        <div class="cl-date">2026-07-29</div>
-        <div class="cl-desc">课程经验分享改为可展开学期卡片，新增民法总论课程</div>
+        <div class="cl-date">2026-07-30</div>
+        <div class="cl-desc">课程经验分享改为可展开学期卡片，新增民法总论（96/5.0）</div>
       </div>
       <div class="cl-item">
         <div class="cl-date">2026-07-29</div>
