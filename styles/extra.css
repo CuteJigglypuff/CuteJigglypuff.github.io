@@ -626,6 +626,57 @@ body::before {
 }
 
 /* ============================================
+   更新日志（纯 div + checkbox，无浏览器 default）
+   ============================================ */
+.cl-box {
+  background: var(--bg-card);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border-radius: 18px;
+  border: 1px solid rgba(180,200,80,0.12);
+  box-shadow: 0 2px 16px rgba(80,100,30,0.04), inset 0 1px 0 rgba(255,255,255,0.3);
+}
+
+.cl-toggle { display: none; }
+
+.cl-toggle + .cl-header {
+  display: flex; align-items: center; gap: 8px;
+  padding: 12px 20px; cursor: pointer; border-radius: 18px;
+  font-family: 'Noto Serif SC', serif; font-size: 0.9rem; font-weight: 500;
+  color: #5a6a3a; transition: all .25s ease;
+}
+
+.cl-toggle + .cl-header:hover { color: #3a4a28; background: rgba(180,200,80,0.04); }
+
+.cl-toggle ~ .cl-body { display: none; }
+
+.cl-toggle:checked ~ .cl-body {
+  display: block;
+  border-top: 1px solid rgba(180,200,80,0.08);
+  padding: 8px 20px 16px;
+}
+
+.cl-toggle:checked + .cl-header { border-radius: 18px 18px 6px 6px; }
+
+.cl-item {
+  display: flex; gap: 16px; padding: 8px 0;
+  border-bottom: 1px solid rgba(180,200,80,0.06);
+  align-items: baseline;
+}
+
+.cl-item:last-child { border-bottom: none; }
+
+.cl-date {
+  font-family: 'Noto Serif SC', serif; font-size: 0.82rem; font-weight: 500;
+  color: #9a9a6a; white-space: nowrap; flex-shrink: 0;
+}
+
+.cl-desc {
+  font-family: 'Noto Serif SC', serif; font-size: 0.9rem; font-weight: 400;
+  color: #4a5a28; line-height: 1.5;
+}
+
+/* ============================================
    响应式
    ============================================ */
 @media (max-width: 768px) {
