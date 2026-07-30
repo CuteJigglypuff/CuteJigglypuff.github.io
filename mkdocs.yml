@@ -1,0 +1,29 @@
+site_name: B613小行星
+theme:
+  name: material
+  language: zh
+  palette:
+    - scheme: default
+      primary: custom
+      accent: custom
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+  font:
+    text: Noto Serif SC, STSong, SimSun, serif
+    code: JetBrains Mono, Fira Code, monospace
+
+extra_css:
+  - https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&family=Noto+Serif+SC:wght@300;400;700&family=ZCOOL+KuaiLe&display=swap
+  - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css
+  - styles/extra.css
+
+extra_javascript:
+  - scripts/extra.js
+
+nav:
+  - 主页: index.md
+  - 简介: about/index.md
+  - 课程: course/index.md
+  - 日历: calendar/index.md
+  - 友链: friends/index.md
