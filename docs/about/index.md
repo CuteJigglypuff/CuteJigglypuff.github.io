@@ -7,16 +7,19 @@ hide:
 <div class="page-wrap">
   <div class="page-panel">
     <h2><i class="fas fa-user-astronaut"></i> 关于 B613 的主人</h2>
-    <p>你好，我是这颗小行星的唯一居民。在这里，我照料着一朵独一无二的玫瑰，看着四十三次日落。欢迎你来我的星球做客。</p>
+    <p>你好，我是B613小行星的居民</p>
+    <p>浙江大学2025级法学在读，在成为六边形战士的旅途中且歌且行</p>
+    <p>思念着一只远在北方的狐狸，看着四十三次日落，等待着命中注定的一次星际迁移。</p>
+    <p>总之，欢迎你来我的星球做客。</p>
   </div>
   <div class="page-panel">
     <h2><i class="fas fa-seedling"></i> 日常与爱好</h2>
-    <p>每天清晨，我会清理小行星上的猴面包树幼苗，疏通两座活火山和一座死火山。空闲时，我喜欢读书、写作，偶尔仰望星空发呆。</p>
+    <p>辩论、拼豆、阅读、乒乓球、羽毛球...但比起这些似乎更喜欢无所事事地发呆与摆烂</p>
   </div>
   <div class="page-panel">
     <h2><i class="fas fa-envelope"></i> 星际通信</h2>
-    <p>📧 星际邮件：example@b613.space</p>
-    <p style="margin-top:8px;">💬 如果你在太空中收到这条讯息，欢迎回信，一起聊聊星星和玫瑰。</p>
+    <p>📧 星际邮件：1341610932@qq.com</p>
+    <p style="margin-top:8px;">💬 如果你在太空中收到这条讯息，欢迎回信，一起聊聊理想和远方。</p>
   </div>
   <div class="end-section">
     <div class="end-line"></div>
