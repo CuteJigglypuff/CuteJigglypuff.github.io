@@ -54,25 +54,20 @@ hide:
       <span class="arrow"><i class="fas fa-chevron-down"></i></span>
     </label>
     <div class="sem-body">
+      <a class="course-link" href="#">
+        <span class="c-icon"><i class="fas fa-person-military-rifle"></i></span>
+        <span class="c-info"><div class="c-name">军训</div><div class="c-teacher">郑玲玲老师</div></span>
+        <span class="c-score"><div class="c-score-num">89</div><div class="c-score-gpa">绩点 4.5</div></span>
+      </a>
+      <a class="course-link" href="#">
+        <span class="c-icon"><i class="fas fa-language"></i></span>
+        <span class="c-info"><div class="c-name">大学英语Ⅲ</div><div class="c-teacher">陈伶俐老师</div></span>
+        <span class="c-score"><div class="c-score-num">93</div><div class="c-score-gpa">绩点 4.8</div></span>
+      </a>
       <a class="course-link" href="autumn-advanced-math/">
         <span class="c-icon"><i class="fas fa-square-root-alt"></i></span>
         <span class="c-info"><div class="c-name">高等数学</div><div class="c-teacher">叶和溪老师</div></span>
         <span class="c-score"><div class="c-score-num">90</div><div class="c-score-gpa">绩点 4.5</div></span>
-      </a>
-      <a class="course-link" href="#">
-        <span class="c-icon"><i class="fas fa-seedling"></i></span>
-        <span class="c-info"><div class="c-name">农事劳动实践</div><div class="c-teacher">金蓉老师</div></span>
-        <span class="c-score"><div class="c-score-num">90</div><div class="c-score-gpa">绩点 4.5</div></span>
-      </a>
-      <a class="course-link" href="#">
-        <span class="c-icon"><i class="fas fa-bug"></i></span>
-        <span class="c-info"><div class="c-name">仿生学导论</div><div class="c-teacher">柏浩老师</div></span>
-        <span class="c-score"><div class="c-score-num">91</div><div class="c-score-gpa">绩点 4.5</div></span>
-      </a>
-      <a class="course-link" href="#">
-        <span class="c-icon"><i class="fas fa-language"></i></span>
-        <span class="c-info"><div class="c-name">大学英语Ⅳ</div><div class="c-teacher">陈伶俐老师</div></span>
-        <span class="c-score"><div class="c-score-num">93</div><div class="c-score-gpa">绩点 4.8</div></span>
       </a>
       <a class="course-link" href="#">
         <span class="c-icon"><i class="fas fa-landmark"></i></span>
@@ -85,24 +80,29 @@ hide:
         <span class="c-score"><div class="c-score-num">91</div><div class="c-score-gpa">绩点 4.5</div></span>
       </a>
       <a class="course-link" href="#">
-        <span class="c-icon"><i class="fas fa-code"></i></span>
-        <span class="c-info"><div class="c-name">C语言程序设计</div><div class="c-teacher">肖少拥老师</div></span>
-        <span class="c-score"><div class="c-score-num">88</div><div class="c-score-gpa">绩点 4.2</div></span>
-      </a>
-      <a class="course-link" href="#">
         <span class="c-icon"><i class="fas fa-shield-haltered"></i></span>
         <span class="c-info"><div class="c-name">军事理论</div><div class="c-teacher">郑纪达老师</div></span>
         <span class="c-score"><div class="c-score-num">86</div><div class="c-score-gpa">绩点 4.2</div></span>
       </a>
       <a class="course-link" href="#">
+        <span class="c-icon"><i class="fas fa-code"></i></span>
+        <span class="c-info"><div class="c-name">C语言程序设计</div><div class="c-teacher">肖少拥老师</div></span>
+        <span class="c-score"><div class="c-score-num">88</div><div class="c-score-gpa">绩点 4.2</div></span>
+      </a>
+      <a class="course-link" href="#">
+        <span class="c-icon"><i class="fas fa-seedling"></i></span>
+        <span class="c-info"><div class="c-name">农事劳动实践</div><div class="c-teacher">金蓉老师</div></span>
+        <span class="c-score"><div class="c-score-num">90</div><div class="c-score-gpa">绩点 4.5</div></span>
+      </a>
+      <a class="course-link" href="#">
+        <span class="c-icon"><i class="fas fa-bug"></i></span>
+        <span class="c-info"><div class="c-name">仿生学导论</div><div class="c-teacher">柏浩老师</div></span>
+        <span class="c-score"><div class="c-score-num">91</div><div class="c-score-gpa">绩点 4.5</div></span>
+      </a>
+      <a class="course-link" href="#">
         <span class="c-icon"><i class="fas fa-dna"></i></span>
         <span class="c-info"><div class="c-name">生命科学导论</div><div class="c-teacher">梁爽 / 史锋老师</div></span>
         <span class="c-score"><div class="c-score-num">86</div><div class="c-score-gpa">绩点 4.2</div></span>
-      </a>
-      <a class="course-link" href="#">
-        <span class="c-icon"><i class="fas fa-person-military-rifle"></i></span>
-        <span class="c-info"><div class="c-name">军训</div><div class="c-teacher">郑玲玲老师</div></span>
-        <span class="c-score"><div class="c-score-num">89</div><div class="c-score-gpa">绩点 4.5</div></span>
       </a>
       <a class="course-link" href="#">
         <span class="c-icon"><i class="fas fa-table-tennis"></i></span>

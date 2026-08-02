@@ -407,7 +407,7 @@ body::before {
    子页面
    ============================================ */
 .page-wrap {
-  max-width: 820px;
+  max-width: 900px;
   margin: 0 auto;
   padding: 56px 32px;
 }
